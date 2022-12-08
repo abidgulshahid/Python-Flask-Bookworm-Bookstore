@@ -13,7 +13,7 @@ bs4==0.0.1
 cairocffi==1.2.0
 CairoSVG==2.5.2
 capstone==4.0.2
-certifi==2020.6.20
+certifi==2022.12.7
 cffi==1.14.4
 chardet==3.0.4
 Click==7.0
