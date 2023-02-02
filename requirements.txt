@@ -149,7 +149,7 @@ virtualenvwrapper==4.8.4
 wcwidth==0.2.5
 WeasyPrint==52.5
 webencodings==0.5.1
-Werkzeug==0.15.4
+Werkzeug==0.15.5
 whitenoise==5.2.0
 wrapt==1.12.1
 WTForms==2.2.1
